@@ -1,0 +1,25 @@
+[INFO  - 2020-07-09T18:04:36.380Z] GhostDriver - Main - running on port 62575
+[INFO  - 2020-07-09T18:04:40.043Z] Session [a87d5c20-c20e-11ea-9430-774bb09b79a8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-07-09T18:04:40.043Z] Session [a87d5c20-c20e-11ea-9430-774bb09b79a8] - page.customHeaders:  - {}
+[INFO  - 2020-07-09T18:04:40.043Z] Session [a87d5c20-c20e-11ea-9430-774bb09b79a8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-07-09T18:04:40.044Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a87d5c20-c20e-11ea-9430-774bb09b79a8
+[ERROR - 2020-07-09T18:04:43.369Z] Session [a87d5c20-c20e-11ea-9430-774bb09b79a8] - page.onError - msg: NETWORK_ERR: XMLHttpRequest Exception 101: A network error occurred in synchronous requests.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-07-09T18:04:43.374Z] Session [a87d5c20-c20e-11ea-9430-774bb09b79a8] - page.onError - stack:
+  send (https://www.elitan.ru/scripts/twig.min.js:8)
+  (anonymous function) (https://www.elitan.ru/scripts/twig.min.js:8)
+  loadRemote (https://www.elitan.ru/scripts/twig.min.js:8)
+  twig (https://www.elitan.ru/scripts/twig.min.js:11)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-07-09T18:04:44.434Z] Session [a87d5c20-c20e-11ea-9430-774bb09b79a8] - page.onError - msg: NETWORK_ERR: XMLHttpRequest Exception 101: A network error occurred in synchronous requests.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-07-09T18:04:44.435Z] Session [a87d5c20-c20e-11ea-9430-774bb09b79a8] - page.onError - stack:
+  send (https://www.elitan.ru/scripts/twig.min.js:8)
+  (anonymous function) (https://www.elitan.ru/scripts/twig.min.js:8)
+  loadRemote (https://www.elitan.ru/scripts/twig.min.js:8)
+  twig (https://www.elitan.ru/scripts/twig.min.js:11)
+
+  phantomjs://platform/console++.js:263 in error

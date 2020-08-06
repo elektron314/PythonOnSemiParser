@@ -1,0 +1,258 @@
+Product Name,Prices,Description
+NL27WZ16,$0.06,Dual Buffer
+NL27WZ17,$0.04,Dual Non-Inverting Buffer withSchmitt Trigger Input
+74AC240,$0.35,Octal Buffer/Line Driver with 3-STATE Outputs
+74AC244,$0.2476,Octal Buffer/Line Driver with 3-STATE Outputs
+74AC540,$0.3191,Octal Buffer/Line Driver with 3-STATE Outputs
+74AC541,$0.2204,Octal Buffer/Line Driver with 3-STATE Outputs
+74ACT240,$0.2891,Octal Buffer/Line Driver with 3-STATE Outputs
+74ACT244,$0.2224,Octal Buffer/Line Driver with 3-STATE Outputs
+74ACT541,$0.258,Octal Buffer/Line Driver with 3-STATE Outputs
+74ALVC162244,$0.8756,Low Voltage 16-Bit Buffer/Line Driver with 3.6V Tolerant Inputs and Outputs and 26 Ohm Series Resistor in Outputs
+74ALVC16244,$0.935,Low Voltage 1.8/2.5/3.3V 16-Bit Buffer
+74LCX06,$0.1599,Low Voltage Hex Inverter/Buffer with Open Drain Outputs
+74LCX07,$0.1171,Low Voltage Hex Buffer with Open Drain Outputs
+74LCX125,$0.1052,Low Voltage Quad Buffer with 5V Tolerant Inputs and Outputs
+74LCX126,$0.1524,Low Voltage Quad Buffer with 5V tolerant Inputs and Outputs
+74LCX162244,$0.5368,Low Voltage 16-Bit Buffer/Line Driver with 26Ω Series Resistors in Outputs
+74LCX16240,$0.5664,Low Voltage 16-Bit Inverting Buffer/Line Driver with 5V Tolerant Inputs/Outputs
+74LCX16244,$0.5,Low Voltage 16-Bit Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LCX2244,$0.2324,Low Voltage Buffer/Line Driver with 5V Tolerant Inputs and Outputs with 26 Ohm Series Resistors in the Outputs
+74LCX240,$0.2315,Low Voltage Octal Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LCX244,$0.1667,Low Voltage Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LCX540,$0.3832,Low Voltage Octal Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LCX541,$0.25,Low Voltage Octal Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LCX760,$0.2431,Low Voltage Buffer/Line Driver with 5V Tolerant Inputs and Open Drain Outputs
+74LCXH162244,$0.5368,Low Voltage 16-Bit Buffer/Line Driver with Bushold and 26 Ohm Series Resistors in Outputs
+74LCXH16244,$0.5531,Low Voltage 16-Bit Buffer/Line Driver with Bushold
+74LCXZ16244,$0.6004,Low Voltage 16-Bit Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LVT162244,$0.6324,Low Voltage 16-Bit Buffer/Line Driver with 3-STATE Outputs and 25 Ohm Series Resistors in the Outputs
+74LVT2244,$0.3188,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVT244,$0.3359,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVTH125,$0.1585,Low Voltage Quad Buffer with 3-STATE Outputs
+74LVTH162244,$0.689,Low Voltage 16-Bit Buffer/Line Driver with 3-STATE Outputs and 25 Ohm Series Resistors in the Outputs
+74LVTH2244,$0.354,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVTH240,$0.3248,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVTH244,$0.3092,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVX125,$0.1252,Low Voltage Quad Buffer with 3-STATE Outputs
+74LVX244,$0.1841,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVX541,$0.2288,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+NL27WZ16,$0.06,Dual Buffer
+NL27WZ17,$0.04,Dual Non-Inverting Buffer withSchmitt Trigger Input
+74AC240,$0.35,Octal Buffer/Line Driver with 3-STATE Outputs
+74AC244,$0.2476,Octal Buffer/Line Driver with 3-STATE Outputs
+74AC540,$0.3191,Octal Buffer/Line Driver with 3-STATE Outputs
+74AC541,$0.2204,Octal Buffer/Line Driver with 3-STATE Outputs
+74ACT240,$0.2891,Octal Buffer/Line Driver with 3-STATE Outputs
+74ACT244,$0.2224,Octal Buffer/Line Driver with 3-STATE Outputs
+74ACT541,$0.258,Octal Buffer/Line Driver with 3-STATE Outputs
+74ALVC162244,$0.8756,Low Voltage 16-Bit Buffer/Line Driver with 3.6V Tolerant Inputs and Outputs and 26 Ohm Series Resistor in Outputs
+74ALVC16244,$0.935,Low Voltage 1.8/2.5/3.3V 16-Bit Buffer
+74LCX06,$0.1599,Low Voltage Hex Inverter/Buffer with Open Drain Outputs
+74LCX07,$0.1171,Low Voltage Hex Buffer with Open Drain Outputs
+74LCX125,$0.1052,Low Voltage Quad Buffer with 5V Tolerant Inputs and Outputs
+74LCX126,$0.1524,Low Voltage Quad Buffer with 5V tolerant Inputs and Outputs
+74LCX162244,$0.5368,Low Voltage 16-Bit Buffer/Line Driver with 26Ω Series Resistors in Outputs
+74LCX16240,$0.5664,Low Voltage 16-Bit Inverting Buffer/Line Driver with 5V Tolerant Inputs/Outputs
+74LCX16244,$0.5,Low Voltage 16-Bit Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LCX2244,$0.2324,Low Voltage Buffer/Line Driver with 5V Tolerant Inputs and Outputs with 26 Ohm Series Resistors in the Outputs
+74LCX240,$0.2315,Low Voltage Octal Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LCX244,$0.1667,Low Voltage Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LCX540,$0.3832,Low Voltage Octal Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LCX541,$0.25,Low Voltage Octal Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LCX760,$0.2431,Low Voltage Buffer/Line Driver with 5V Tolerant Inputs and Open Drain Outputs
+74LCXH162244,$0.5368,Low Voltage 16-Bit Buffer/Line Driver with Bushold and 26 Ohm Series Resistors in Outputs
+74LCXH16244,$0.5531,Low Voltage 16-Bit Buffer/Line Driver with Bushold
+74LCXZ16244,$0.6004,Low Voltage 16-Bit Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LVT162244,$0.6324,Low Voltage 16-Bit Buffer/Line Driver with 3-STATE Outputs and 25 Ohm Series Resistors in the Outputs
+74LVT2244,$0.3188,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVT244,$0.3359,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVTH125,$0.1585,Low Voltage Quad Buffer with 3-STATE Outputs
+74LVTH162244,$0.689,Low Voltage 16-Bit Buffer/Line Driver with 3-STATE Outputs and 25 Ohm Series Resistors in the Outputs
+74LVTH2244,$0.354,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVTH240,$0.3248,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVTH244,$0.3092,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVX125,$0.1252,Low Voltage Quad Buffer with 3-STATE Outputs
+74LVX244,$0.1841,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVX541,$0.2288,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+NL27WZ16,$0.06,Dual Buffer
+NL27WZ17,$0.04,Dual Non-Inverting Buffer withSchmitt Trigger Input
+74AC240,$0.35,Octal Buffer/Line Driver with 3-STATE Outputs
+74AC244,$0.2476,Octal Buffer/Line Driver with 3-STATE Outputs
+74AC540,$0.3191,Octal Buffer/Line Driver with 3-STATE Outputs
+74AC541,$0.2204,Octal Buffer/Line Driver with 3-STATE Outputs
+74ACT240,$0.2891,Octal Buffer/Line Driver with 3-STATE Outputs
+74ACT244,$0.2224,Octal Buffer/Line Driver with 3-STATE Outputs
+74ACT541,$0.258,Octal Buffer/Line Driver with 3-STATE Outputs
+74ALVC162244,$0.8756,Low Voltage 16-Bit Buffer/Line Driver with 3.6V Tolerant Inputs and Outputs and 26 Ohm Series Resistor in Outputs
+74ALVC16244,$0.935,Low Voltage 1.8/2.5/3.3V 16-Bit Buffer
+74LCX06,$0.1599,Low Voltage Hex Inverter/Buffer with Open Drain Outputs
+74LCX07,$0.1171,Low Voltage Hex Buffer with Open Drain Outputs
+74LCX125,$0.1052,Low Voltage Quad Buffer with 5V Tolerant Inputs and Outputs
+74LCX126,$0.1524,Low Voltage Quad Buffer with 5V tolerant Inputs and Outputs
+74LCX162244,$0.5368,Low Voltage 16-Bit Buffer/Line Driver with 26Ω Series Resistors in Outputs
+74LCX16240,$0.5664,Low Voltage 16-Bit Inverting Buffer/Line Driver with 5V Tolerant Inputs/Outputs
+74LCX16244,$0.5,Low Voltage 16-Bit Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LCX2244,$0.2324,Low Voltage Buffer/Line Driver with 5V Tolerant Inputs and Outputs with 26 Ohm Series Resistors in the Outputs
+74LCX240,$0.2315,Low Voltage Octal Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LCX244,$0.1667,Low Voltage Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LCX540,$0.3832,Low Voltage Octal Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LCX541,$0.25,Low Voltage Octal Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LCX760,$0.2431,Low Voltage Buffer/Line Driver with 5V Tolerant Inputs and Open Drain Outputs
+74LCXH162244,$0.5368,Low Voltage 16-Bit Buffer/Line Driver with Bushold and 26 Ohm Series Resistors in Outputs
+74LCXH16244,$0.5531,Low Voltage 16-Bit Buffer/Line Driver with Bushold
+74LCXZ16244,$0.6004,Low Voltage 16-Bit Buffer/Line Driver with 5V Tolerant Inputs and Outputs
+74LVT162244,$0.6324,Low Voltage 16-Bit Buffer/Line Driver with 3-STATE Outputs and 25 Ohm Series Resistors in the Outputs
+74LVT2244,$0.3188,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVT244,$0.3359,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVTH125,$0.1585,Low Voltage Quad Buffer with 3-STATE Outputs
+74LVTH162244,$0.689,Low Voltage 16-Bit Buffer/Line Driver with 3-STATE Outputs and 25 Ohm Series Resistors in the Outputs
+74LVTH2244,$0.354,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVTH240,$0.3248,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVTH244,$0.3092,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVX125,$0.1252,Low Voltage Quad Buffer with 3-STATE Outputs
+74LVX244,$0.1841,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74LVX541,$0.2288,Low Voltage Octal Buffer/Line Driver with 3-STATE Outputs
+74VCX162244,$0.9786,Low Voltage 16-Bit Buffer/Line Driver with 3.6V Tolerant Inputs and Outputs and 26 Ohm Series Resistor in Outputs
+74VCX16244,$0.66,"Low-Voltage 1.8/2.5/3.3 V 16-Bit Buffer With 3.6 V-Tolerant Inputs and Outputs (3-State, Non-Inverting)"
+74VHC125,$0.12,Quad Buffer with 3-STATE Outputs
+74VHC240,$0.3631,Octal Buffer/Line Driver with 3-STATE Outputs
+74VHC244,$0.1979,Octal Buffer/Line Driver with 3-STATE Outputs
+74VHC541,$0.2163,Octal Buffer/Line Driver with 3-STATE Outputs
+74VHCT240A,$0.2448,Octal Buffer/Line Driver with 3-STATE Outputs
+74VHCT244A,$0.2224,Octal Buffer/Line Driver with 3-STATE Outputs
+74VHCT245A,$0.2327,Octal Buffer/Line Driver with 3-STATE Outputs
+74VHCT541A,$0.3832,Octal Buffer/Line Driver with 3-STATE Outputs
+MC14050B,$0.1277,Hex Buffer
+MC14503B,$0.1809,"Hex Non-inverting Buffer, 3-State"
+MC74AC125,$0.1733,Quad Buffer with 3-State Outputs
+MC74AC240,$0.2267,"Octal Buffer/Line Driver, 3-State"
+MC74AC244,$0.2267,"Octal Buffer/Line Driver, 3-State"
+MC74AC540,$0.2667,Octal Buffer/Line Driver with 3-State Outputs
+MC74AC541,$0.2667,Octal Buffer/Line Driver with 3-State Outputs
+MC74ACT125,$0.1333,Quad Buffer with 3-State Outputs
+MC74ACT240,$0.2267,"Octal Buffer/Line Driver, 3-State"
+MC74ACT241,$0.2267,"Octal Buffer/Line Driver, 3-State"
+MC74ACT244,$0.1867,"Octal Buffer/Line Driver, 3-State"
+MC74ACT540,$0.24,Octal Buffer/Line Driver with 3-State Outputs
+MC74ACT541,$0.24,Octal Buffer/Line Driver with 3-State Outputs
+MC74HC125A,$0.12,"Quad Non-inverting Buffer, 3-State"
+MC74HC126A,$0.12,"Quad Non-inverting Buffer, 3-State"
+MC74HC240A,$0.28,"Octal Inverting Buffer/Line Driver/Line Receiver, 3-State"
+MC74HC244A,$0.1867,Octal 3-State Non-Inverting Buffer/Line Driver/Line Receiver
+MC74HC365A,$0.116,Hex 3-State Non-inverting Buffer with Common Enables
+MC74HC367A,$0.18,Hex 3-State NonInverting Buffer with Separate 2-Bit and 4-Bit Sections
+MC74HC540A,$0.3467,Octal 3-State Inverting Buffer/Line Driver/Line Receiver
+MC74HC541A,$0.1933,Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver
+MC74HCT125A,$0.1,"Quad Non-inverting Buffer with LSTTL Compatible Inputs, 3-State"
+74VCX162244,$0.9786,Low Voltage 16-Bit Buffer/Line Driver with 3.6V Tolerant Inputs and Outputs and 26 Ohm Series Resistor in Outputs
+74VCX16244,$0.66,"Low-Voltage 1.8/2.5/3.3 V 16-Bit Buffer With 3.6 V-Tolerant Inputs and Outputs (3-State, Non-Inverting)"
+74VHC125,$0.12,Quad Buffer with 3-STATE Outputs
+74VHC240,$0.3631,Octal Buffer/Line Driver with 3-STATE Outputs
+74VHC244,$0.1979,Octal Buffer/Line Driver with 3-STATE Outputs
+74VHC541,$0.2163,Octal Buffer/Line Driver with 3-STATE Outputs
+74VHCT240A,$0.2448,Octal Buffer/Line Driver with 3-STATE Outputs
+74VHCT244A,$0.2224,Octal Buffer/Line Driver with 3-STATE Outputs
+74VHCT245A,$0.2327,Octal Buffer/Line Driver with 3-STATE Outputs
+74VHCT541A,$0.3832,Octal Buffer/Line Driver with 3-STATE Outputs
+MC14050B,$0.1277,Hex Buffer
+MC14503B,$0.1809,"Hex Non-inverting Buffer, 3-State"
+MC74AC125,$0.1733,Quad Buffer with 3-State Outputs
+MC74AC240,$0.2267,"Octal Buffer/Line Driver, 3-State"
+MC74AC244,$0.2267,"Octal Buffer/Line Driver, 3-State"
+MC74AC540,$0.2667,Octal Buffer/Line Driver with 3-State Outputs
+MC74AC541,$0.2667,Octal Buffer/Line Driver with 3-State Outputs
+MC74ACT125,$0.1333,Quad Buffer with 3-State Outputs
+MC74ACT240,$0.2267,"Octal Buffer/Line Driver, 3-State"
+MC74ACT241,$0.2267,"Octal Buffer/Line Driver, 3-State"
+MC74ACT244,$0.1867,"Octal Buffer/Line Driver, 3-State"
+MC74ACT540,$0.24,Octal Buffer/Line Driver with 3-State Outputs
+MC74ACT541,$0.24,Octal Buffer/Line Driver with 3-State Outputs
+MC74HC125A,$0.12,"Quad Non-inverting Buffer, 3-State"
+MC74HC126A,$0.12,"Quad Non-inverting Buffer, 3-State"
+MC74HC240A,$0.28,"Octal Inverting Buffer/Line Driver/Line Receiver, 3-State"
+MC74HC244A,$0.1867,Octal 3-State Non-Inverting Buffer/Line Driver/Line Receiver
+MC74HC365A,$0.116,Hex 3-State Non-inverting Buffer with Common Enables
+MC74HC367A,$0.18,Hex 3-State NonInverting Buffer with Separate 2-Bit and 4-Bit Sections
+MC74HC540A,$0.3467,Octal 3-State Inverting Buffer/Line Driver/Line Receiver
+MC74HC541A,$0.1933,Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver
+MC74HCT125A,$0.1,"Quad Non-inverting Buffer with LSTTL Compatible Inputs, 3-State"
+MM74HC541,$0.1583,Octal 3-STATE Buffers
+MM74HCT240,$0.2292,Inverting Octal 3-STATE Buffer
+MM74HCT244,$0.2179,Octal 3-STATE Buffer
+MM74HCT540,$0.2452,Inverting Octal 3-STATE Buffer
+MM74HCT541,$0.1625,Octal 3-STATE Buffer
+NC7NP34,$0.24,TinyLogic ULP Triple Buffer
+NC7NZ17,$0.1303,TinyLogic UHS Triple Buffer with Schmitt Trigger Inputs
+NC7NZ34,$0.1187,TinyLogic UHS Triple Buffer
+NC7SP125,$0.1027,TinyLogic ULP Buffer with 3-STATE Output
+NC7SP126,$0.0964,TinyLogic ULP Buffer with 3-STATE Output
+NC7SP17,$0.064,TinyLogic ULP Single Buffer with Schmitt Trigger Input
+NC7SP34,$0.1083,TinyLogic ULP Single Buffer
+NC7SV125,$0.0793,TinyLogic ULP-A Buffer with 3-STATE Output
+NC7SV126,0,TinyLogic ULP-A Buffer with 3-STATE Output
+NC7SV17,$0.0743,TinyLogic ULP-A Single Buffer with Schmitt Trigger Input
+NC7SV34,$0.0781,TinyLogic ULP-A Single Buffer
+NC7SZ125,$0.0516,TinyLogic UHS Buffer with 3-STATE Output
+NC7SZ126,$0.0516,TinyLogic UHS Buffer with 3-STATE Output
+NC7SZ34,$0.12,Ultra High Speed Buffer
+NC7WP125,$0.1743,TinyLogic ULP Buffer with 3-STATE Output
+NC7WV07,$0.0931,TinyLogic ULP-A Dual Buffer (Open-Drain Output)
+NC7WV125,$0.21,TinyLogic ULP-A Dual Buffer with 3-STATE Output
+NC7WV16,$0.1521,TinyLogic ULP-A Dual Buffer
+NC7WV17,$0.1295,TinyLogic ULP-A Dual Buffer with Schmitt Trigger Input
+MM74HC541,$0.1583,Octal 3-STATE Buffers
+MM74HCT240,$0.2292,Inverting Octal 3-STATE Buffer
+MM74HCT244,$0.2179,Octal 3-STATE Buffer
+MM74HCT540,$0.2452,Inverting Octal 3-STATE Buffer
+MM74HCT541,$0.1625,Octal 3-STATE Buffer
+NC7NP34,$0.24,TinyLogic ULP Triple Buffer
+NC7NZ17,$0.1303,TinyLogic UHS Triple Buffer with Schmitt Trigger Inputs
+NC7NZ34,$0.1187,TinyLogic UHS Triple Buffer
+NC7SP125,$0.1027,TinyLogic ULP Buffer with 3-STATE Output
+NC7SP126,$0.0964,TinyLogic ULP Buffer with 3-STATE Output
+NC7SP17,$0.064,TinyLogic ULP Single Buffer with Schmitt Trigger Input
+NC7SP34,$0.1083,TinyLogic ULP Single Buffer
+NC7SV125,$0.0793,TinyLogic ULP-A Buffer with 3-STATE Output
+NC7SV126,0,TinyLogic ULP-A Buffer with 3-STATE Output
+NC7SV17,$0.0743,TinyLogic ULP-A Single Buffer with Schmitt Trigger Input
+NC7SV34,$0.0781,TinyLogic ULP-A Single Buffer
+NC7SZ125,$0.0516,TinyLogic UHS Buffer with 3-STATE Output
+NC7SZ126,$0.0516,TinyLogic UHS Buffer with 3-STATE Output
+NC7SZ34,$0.12,Ultra High Speed Buffer
+NC7WP125,$0.1743,TinyLogic ULP Buffer with 3-STATE Output
+NC7WV07,$0.0931,TinyLogic ULP-A Dual Buffer (Open-Drain Output)
+NC7WV125,$0.21,TinyLogic ULP-A Dual Buffer with 3-STATE Output
+NC7WV16,$0.1521,TinyLogic ULP-A Dual Buffer
+NC7WV17,$0.1295,TinyLogic ULP-A Dual Buffer with Schmitt Trigger Input
+MM74HC541,$0.1583,Octal 3-STATE Buffers
+MM74HCT240,$0.2292,Inverting Octal 3-STATE Buffer
+MM74HCT244,$0.2179,Octal 3-STATE Buffer
+MM74HCT540,$0.2452,Inverting Octal 3-STATE Buffer
+MM74HCT541,$0.1625,Octal 3-STATE Buffer
+NC7NP34,$0.24,TinyLogic ULP Triple Buffer
+NC7NZ17,$0.1303,TinyLogic UHS Triple Buffer with Schmitt Trigger Inputs
+NC7NZ34,$0.1187,TinyLogic UHS Triple Buffer
+NC7SP125,$0.1027,TinyLogic ULP Buffer with 3-STATE Output
+NC7SP126,$0.0964,TinyLogic ULP Buffer with 3-STATE Output
+NC7SP17,$0.064,TinyLogic ULP Single Buffer with Schmitt Trigger Input
+NC7SP34,$0.1083,TinyLogic ULP Single Buffer
+NC7SV125,$0.0793,TinyLogic ULP-A Buffer with 3-STATE Output
+NC7SV126,0,TinyLogic ULP-A Buffer with 3-STATE Output
+NC7SV17,$0.0743,TinyLogic ULP-A Single Buffer with Schmitt Trigger Input
+NC7SV34,$0.0781,TinyLogic ULP-A Single Buffer
+NC7SZ125,$0.0516,TinyLogic UHS Buffer with 3-STATE Output
+NC7SZ126,$0.0516,TinyLogic UHS Buffer with 3-STATE Output
+NC7SZ34,$0.12,Ultra High Speed Buffer
+NC7WP125,$0.1743,TinyLogic ULP Buffer with 3-STATE Output
+NC7WV07,$0.0931,TinyLogic ULP-A Dual Buffer (Open-Drain Output)
+NC7WV125,$0.21,TinyLogic ULP-A Dual Buffer with 3-STATE Output
+NC7WV16,$0.1521,TinyLogic ULP-A Dual Buffer
+NC7WV17,$0.1295,TinyLogic ULP-A Dual Buffer with Schmitt Trigger Input
+NLU2G16,$0.0853,Dual Buffer
+NLU2G17,$0.0853,Dual Buffer with Schmitt Trigger Output
+NLU3G16,$0.1051,Triple Non-Inverting Buffer
+NLV17SZ07,$0.1077,"Single Non-Inverting Buffer, Open Drain"
+NLX2G07,$0.0896,Dual Buffer with Open Drain Output
+NLX2G16,$0.1075,Dual Buffer
+NLX3G16,$0.112,Triple Buffer
